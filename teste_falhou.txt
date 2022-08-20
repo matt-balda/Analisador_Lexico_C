@@ -1,0 +1,18 @@
+#include <stdio.h>
+int main() {
+    
+    doublee var1 = 2.4e-222;
+    ffloat var2 = 12.200;
+    int var3 = 40;
+    
+    var1 = 2.7e-408;
+    
+    var3 = 20 + 15;
+	
+    returrn 1;
+    
+    fi(var1 > var2){
+    	prinntf("Olá mundo!");
+    	scanf("%d", var3);
+    }
+}

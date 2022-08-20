@@ -1,0 +1,26 @@
+#include <stdio.h>
+int main() {
+    
+    double var1 = 2.4e-222;
+    float var2 = 12.200;
+    int var3 = 40;
+    char[6] var4;
+    
+    var1 = 2.7e-408;
+    
+    var3 = 20 + 15;
+    var3++;
+    var3--;
+    
+    if(var1 > var2 || ( var1 <= var3 && var1 == var3)){
+    	printf("Olá mundo!");
+    	scanf("%d", var3);
+    } else {
+    	printf("Odnum álo");
+    	var3 = 45;
+    }
+    
+    
+    
+    return 1;
+}
