@@ -4,7 +4,7 @@
 
 - O programa contém dois arquivos .txt contendo os códigos fontes da linguagem, um teste para passar e outro para rodar.
 
-#### Manual de execução do programa:
+## Manual de execução do programa:
 
 1. Para analisar o seu código você deve criar um arquivo de texto, ou utilizar os arquivos de teste que já vêem com o programa. 
 2. E depois substituir o nome do arquivo de leitura na classe Main.
